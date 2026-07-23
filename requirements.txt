@@ -1,0 +1,114 @@
+treamlit
+‎‏requests
+‎‏beautifulsoup4
+pandas
+# ==========================================================
+# 🧠 1. Core Machine Learning & Deep Learning
+# ==========================================================
+scikit-learn
+tensorflow
+torch
+torchvision
+torchaudio
+keras
+xgboost
+lightgbm
+catboost
+
+# ==========================================================
+# 🗣️ 2. Large Language Models (LLMs) & Generative AI
+# ==========================================================
+transformers
+langchain
+llama-index
+openai
+google-generativeai
+anthropic
+tiktoken
+sentence-transformers
+huggingface-hub
+accelerate
+peft
+bitsandbytes
+diffusers
+
+# ==========================================================
+# 👁️ 3. Computer Vision & Image Processing
+# ==========================================================
+opencv-python
+Pillow
+ultralytics
+albumentations
+mediapipe
+scikit-image
+
+# ==========================================================
+# 📝 4. Natural Language Processing (NLP)
+# ==========================================================
+spacy
+nltk
+gensim
+textblob
+
+# ==========================================================
+# 🎵 5. Audio & Speech Processing
+# ==========================================================
+librosa
+soundfile
+SpeechRecognition
+pyttsx3
+openai-whisper
+
+# ==========================================================
+# 🗄️ 6. Vector Databases (For RAG & AI Memory)
+# ==========================================================
+chromadb
+faiss-cpu
+pinecone-client
+qdrant-client
+weaviate-client
+
+# ==========================================================
+# 📊 7. Data Manipulation & Mathematics
+# ==========================================================
+numpy
+pandas
+polars
+scipy
+dask
+
+# ==========================================================
+# 📈 8. Data Visualization
+# ==========================================================
+matplotlib
+seaborn
+plotly
+bokeh
+
+# ==========================================================
+# 🌐 9. AI Deployment, APIs & Web UI
+# ==========================================================
+fastapi
+uvicorn
+streamlit
+gradio
+dash
+pydantic
+
+# ==========================================================
+# 🤖 10. Reinforcement Learning & Agents
+# ==========================================================
+gymnasium
+stable-baselines3
+
+# ==========================================================
+# 🛠️ 11. Utilities & Web Scraping (Data Gathering for AI)
+# ==========================================================
+requests
+beautifulsoup4
+selenium
+playwright
+lxml
+python-dotenv
+tqdm
+pip install instaloader streamlit
