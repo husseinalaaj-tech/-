@@ -3,3 +3,4 @@ instaloader
 pandas
 requests
 pillow
+pip install requests beautifulsoup4 pandas openpyxl duckduckgo-search
